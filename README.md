@@ -45,6 +45,7 @@ Monitor | Dell UP2715K (27", 5K - 5120x2880 60Hz)
 ## Used tools
 Name | Description | URL
 -|-|-
+OpenCore | | https://github.com/acidanthera/OpenCorePkg
 SSDTTime | To dump SSDT | https://github.com/corpnewt/SSDTTime
 MaciASL | Compile/Decompile ACPI Tables | https://github.com/acidanthera/MaciASL/
 USBMap | For USB ports mapping | https://github.com/corpnewt/USBMap
