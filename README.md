@@ -1,6 +1,8 @@
 # OpenCore-Gigabyte-Z390-M-Gaming
 An OpenCore EFI configuration for the Gigabyte Z390 M Gaming Motherboard
 ![info](./overview.png)
+OpenCore 0.5.9\
+macOS Catalina 10.15.5 (19F101)
 ## Hardware
 Component | Brand
 -|-
