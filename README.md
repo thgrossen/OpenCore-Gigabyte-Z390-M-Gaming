@@ -27,25 +27,25 @@ Monitor | Dell UP2715K (27", 5K - 5120x2880 60Hz)
 - Onboard Audio
 - DP Audio
 - Shutdown/Restart
-- USB 3.1 Type-A and Type-C
-- iServices (iMessage, Airdrop, Handoff, Continuity)
+- Sleep
+- USB 3.1 Type-A and Type-C (6 ports, 2 rear ports disabled)
+- iServices (iMessage, Airdrop, Handoff, Continuity, sidecar, auto-unlock)
+- FileVault
 - Emulated NVRAM
 - 5K resolution
 
 ### What doesn't work
-- Unlocking with Apple Watch
+- Hibernate
 
 ### Not tested / to do
-- FileVault
 - BootCamp
-- Sleep/Hibernate
 - DRM
-
 
 ## Used tools
 Name | Description | URL
 -|-|-
 OpenCore | | https://github.com/acidanthera/OpenCorePkg
+GenSMBIOS | To generate ROM and serials | https://github.com/corpnewt/GenSMBIOS
 SSDTTime | To dump SSDT | https://github.com/corpnewt/SSDTTime
 MaciASL | Compile/Decompile ACPI Tables | https://github.com/acidanthera/MaciASL/
 USBMap | For USB ports mapping | https://github.com/corpnewt/USBMap
