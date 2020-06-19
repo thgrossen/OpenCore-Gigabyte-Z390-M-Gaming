@@ -28,21 +28,18 @@ Monitor | Dell UP2715K (27", 5K - 5120x2880 60Hz)
 - DP Audio
 - Shutdown/Restart
 - Sleep
-- USB 3.1 Type-A and Type-C
-- iServices (iMessage, Airdrop, Handoff, Continuity, sidecar)
+- USB 3.1 Type-A and Type-C (6 ports, 2 rear ports disabled)
+- iServices (iMessage, Airdrop, Handoff, Continuity, sidecar, auto-unlock)
+- FileVault
 - Emulated NVRAM
 - 5K resolution
 
 ### What doesn't work
-- Unlocking with Apple Watch
 - Hibernate
 
 ### Not tested / to do
-- FileVault
 - BootCamp
-- Hibernate
 - DRM
-
 
 ## Used tools
 Name | Description | URL
