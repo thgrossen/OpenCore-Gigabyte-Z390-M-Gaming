@@ -23,7 +23,7 @@ Monitor | Dell UP2715K (27", 5K - 5120x2880 60Hz)
 ### What works
 - Ethernet
 - Wifi
-- Bluethooth
+- Bluetooth 
 - Onboard Audio
 - DP Audio
 - Shutdown/Restart
