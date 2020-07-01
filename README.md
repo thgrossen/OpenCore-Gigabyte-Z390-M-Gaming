@@ -32,13 +32,10 @@ Monitor | Dell UP2715K (27", 5K - 5120x2880 60Hz)
 - iServices (iMessage, Airdrop, Handoff, Continuity, sidecar, auto-unlock)
 - FileVault
 - Emulated NVRAM
+- BootCamp
 - 5K resolution
 
-### What doesn't work
-- Hibernate
-
-### Not tested / to do
-- BootCamp
+### What doesn't work / to do
 - DRM
 
 ## Used tools
