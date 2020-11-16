@@ -1,12 +1,12 @@
 # OpenCore-Gigabyte-Z390-M-Gaming
 An OpenCore EFI configuration for the Gigabyte Z390 M Gaming Motherboard
 ![info](./overview.png)
-OpenCore 0.5.9\
-macOS Catalina 10.15.5 (19F101)
+OpenCore 0.6.3\
+macOS Big Sur 11.0.1 (20B29)
 ## Hardware
 Component | Brand
 -|-
-Motherboard | Gigabyte Z390 M Gaming (LGA 1151, Intel Z390, mATX) 
+Motherboard | Gigabyte Z390 M Gaming (LGA 1151, Intel Z390, mATX), updated to latest firmware 
 CPU | Intel Core i9 9900K 3.6 GHz
 GPU | Sapphire Nitro+ Radeon RX 580 8G
 Memory | Corsair Vengeance 32Gb (2x, 16Gb, DDR4-3200, DIMM 288) 
