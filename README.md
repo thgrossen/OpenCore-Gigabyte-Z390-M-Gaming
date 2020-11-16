@@ -23,7 +23,7 @@ Monitor | Dell UP2715K (27", 5K - 5120x2880 60Hz)
 ### What works
 - Ethernet
 - Wifi
-- Bluethooth
+- Bluetooth 
 - Onboard Audio
 - DP Audio
 - Shutdown/Restart
@@ -32,13 +32,10 @@ Monitor | Dell UP2715K (27", 5K - 5120x2880 60Hz)
 - iServices (iMessage, Airdrop, Handoff, Continuity, sidecar, auto-unlock)
 - FileVault
 - Emulated NVRAM
+- BootCamp
 - 5K resolution
 
-### What doesn't work
-- Hibernate
-
-### Not tested / to do
-- BootCamp
+### What doesn't work / to do
 - DRM
 
 ## Used tools
@@ -48,5 +45,6 @@ OpenCore | | https://github.com/acidanthera/OpenCorePkg
 GenSMBIOS | To generate ROM and serials | https://github.com/corpnewt/GenSMBIOS
 SSDTTime | To dump SSDT | https://github.com/corpnewt/SSDTTime
 MaciASL | Compile/Decompile ACPI Tables | https://github.com/acidanthera/MaciASL/
+gfxutil | To find audio controller location | https://github.com/acidanthera/gfxutil
 USBMap | For USB ports mapping | https://github.com/corpnewt/USBMap
 Xcode | To edit config.plist |
