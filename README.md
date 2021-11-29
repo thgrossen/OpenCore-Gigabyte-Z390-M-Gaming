@@ -1,7 +1,7 @@
 # OpenCore-Gigabyte-Z390-M-Gaming
 An OpenCore EFI configuration for the Gigabyte Z390 M Gaming Motherboard
 ![info](./overview12.png)
-OpenCore 0.6.3\
+OpenCore 0.7.5\
 macOS Monterey 12.0.1 (21A559)
 ## Hardware
 Component | Brand
@@ -24,7 +24,7 @@ Monitor | Dell UP2715K (27", 5K - 5120x2880 60Hz)
 - Ethernet
 - Wifi
 - Bluetooth 
-- Onboard Audio
+- Onboard Audio (but now disabled)
 - DP Audio
 - Shutdown/Restart
 - Sleep
