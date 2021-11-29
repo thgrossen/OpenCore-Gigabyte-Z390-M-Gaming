@@ -2,7 +2,7 @@
 An OpenCore EFI configuration for the Gigabyte Z390 M Gaming Motherboard
 ![info](./overview12.png)
 OpenCore 0.6.3\
-macOS Big Sur 11.0.1 (20B29)
+macOS Monterey 12.0.1 (21A559)
 ## Hardware
 Component | Brand
 -|-
