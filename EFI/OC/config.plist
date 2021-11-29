@@ -34,7 +34,7 @@
 				<key>Comment</key>
 				<string>RTC0</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-RTC0.aml</string>
 			</dict>
